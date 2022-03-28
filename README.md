@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yxshi4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @yxshi4 aka Witzbold
+- 👀 Interested
+- 🌱 
+- 💞️ 
+- 📫 Discord : Witzbold#6221
 
 <!---
 yxshi4/yxshi4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
